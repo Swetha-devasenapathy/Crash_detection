@@ -1,3 +1,2 @@
-# Crash-Detection-using-IoT-and-Firebase-Mobile-Application-
-The folder upload here are only required folder not the entire project so use the src folder for the source code and apk is in app folder
-Thank you :)
+IOT based Mobile application for Accident Detection and Recovery System
+Tracking, Tracing and Recovering the vehicle from the accident with a mobile application
